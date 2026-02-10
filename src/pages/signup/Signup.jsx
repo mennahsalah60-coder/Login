@@ -129,9 +129,9 @@ export default function Signup() {
                     <p>Agree With <Link>Trems & Conditions</Link></p>
                 </div>
 
-                <button className='signBtn' type="submit">Log in</button>
+                <button className='signBtn' type="submit">Sign up</button>
 
-                <p className='sign'>Already have an account? <Link to="/login">Signup</Link></p>
+                <p className='sign'>Already have an account? <Link to="/login">Login</Link></p>
                 <p className='or sign'>or</p>
 
                 <div className='btns'>
